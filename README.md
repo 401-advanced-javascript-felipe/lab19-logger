@@ -1,46 +1,21 @@
-# LAB - 
+# LAB - 19 Logger
 
-## Project Name
-
-### Author: Student/Group Name
+### Author: Felipe Delatorre
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [Main App](http://xyz.com)
 * [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
-
-#### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
 
 ### Modules
-#### `modulename.js`
-##### Exported Values and Methods
+#### `logger.js`
 
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
+###### `Q subscribe`
+Listens for specific events and console logs once it hears them
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* `PORT` - default values
 
 #### Running the app
 * `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
   
-#### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
-
-#### UML
-![](./assets/----.jpg)
