@@ -29,5 +29,5 @@ dbEvents.forEach(event => {
 });
 
 
-console.log(files.subscriptions());
-console.log(database.subscriptions());
+console.log('logger.js is sub to:', files.subscriptions());
+console.log('logger.js is sub to:', database.subscriptions());

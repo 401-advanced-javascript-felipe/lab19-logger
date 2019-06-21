@@ -3,8 +3,8 @@
 ### Author: Felipe Delatorre
 
 ### Links and Resources
-* [Main App](http://xyz.com)
-* [travis](http://xyz.com)
+* [Main App](https://github.com/401-advanced-javascript-felipe/lab19-MQS/blob/dev/README.md)
+* [travis](https://travis-ci.com/401-advanced-javascript-felipe/lab19-logger/builds/116435801)
 
 ### Modules
 #### `logger.js`
